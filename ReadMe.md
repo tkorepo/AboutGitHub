@@ -38,7 +38,7 @@ GitHub‚Å‚ÍA’N‚É‚Å‚àŒöŠJ‚³‚ê‚éƒI[ƒvƒ“ƒ\[ƒXƒvƒƒWƒFƒNƒg‚È‚ç‚Î–³—¿‚Å—˜—p‚Å‚«‚é(–
 
 git‚Í‚»‚à‚»‚à‚ª•ªŽUŒ^ƒo[ƒWƒ‡ƒ“ŠÇ—ƒVƒXƒeƒ€‚Å‚ ‚èA‰“Šu’n‹¦‹Æ‚ð‘O’ñ‚Æ‚µ‚½ƒc[ƒ‹‚Å‚Í‚ ‚éB‚µ‚©‚µAgit’P‘Ì‚Å‚Í–³ˆ¤‘z‚ÈƒRƒ}ƒ“ƒhƒ‰ƒCƒ“ƒCƒ“ƒ^ƒtƒF[ƒX‚Å‚ ‚èA‚»‚ê‚É‚©‚Ô‚¹‚éGUI‚à—pˆÓ‚³‚ê‚Ä‚¢‚é‚ªAƒo[ƒWƒ‡ƒ“ŠÇ—‚É“Á‰»‚µ‚Ä‚¢‚é‚±‚Æ‚à‚ ‚èA‘‡“I‚È‰“Šu’n‹¦‹Æ‚É‚Í‰×‚ªd‚¢B‚»‚Ì•”•ª‚ðGitHub‚ª•â‚¤‚±‚Æ‚Å•t‰Á‰¿’l‚ð’ñ‹Ÿ‚µ‚Ä‚¢‚éB
 
-GitHub‚Ì—L—¿ƒR[ƒX‚Å‚ÍAŽ©“®ƒeƒXƒg‚ðŠÜ‚ÞŒp‘±“I“‡ƒc[ƒ‹‚È‚ÇA—lX‚Èƒc[ƒ‹‚ª—˜—p‚Å‚«‚éB‚»‚ê‚ç‚ðŽ©‘O‚ÌƒT[ƒo‚Å˜d‚¤‚Æ‚»‚ê‚È‚è‚ÉƒRƒXƒg‚ª‚©‚©‚éB
+GitHub‚Ì—L—¿ƒR[ƒX‚Å‚ÍAŽ©“®ƒeƒXƒg‚ðŠÜ‚ÞŒp‘±“I“‡ƒc[ƒ‹‚È‚ÇA—lX‚Èƒc[ƒ‹‚ª—˜—p‚Å‚«‚éB‚»‚ê‚ç‚ðŽ©‘O‚ÌƒT[ƒo‚ÅˆÛŽ‚·‚é‚Æ‚È‚é‚ÆA‚»‚ê‚È‚è‚ÉƒRƒXƒg‚ª‚©‚©‚éB
 
 ![Buisiness](images/business.jpg)
 
@@ -55,7 +55,7 @@ GitHub‚Ì‰Û‘è‚Æ‚µ‚Ä‚ÍˆÈ‰º‚ªl‚¦‚ç‚ê‚éB
 
 GitHub‚ªŠé‹Æ‚Å‚àL‚­Žg‚í‚ê‚é‚æ‚¤‚É‚È‚èA‰Â—p«‚ª–â‘è‚Æ‚È‚Á‚Ä‚¢‚éBGitHub‚ÌƒT[ƒrƒX‚ª’†’f‚µ‚Ä‚µ‚Ü‚¤‚ÆŠé‹ÆŠˆ“®‚Ü‚Å’†’f‚µ‚Ä‚µ‚Ü‚¤‰Â”\«‚ª‚ ‚é(—L—¿ƒT[ƒrƒX‚Í‰Â—p«‚ª‚‚¢‚ç‚µ‚¢‚ª)BGitHub‚à‰Â—p«‚ÌŒüã‚É“w‚ß‚Ä‚¢‚é‚ªA—˜—pŽÒ‘¤‚Å‚à‘Îô‚ð—§‚Ä‚Ä‚¨‚­•K—v‚ª‚ ‚éB
 
-GitHub‚Í‰pŒê‚ÌƒT[ƒrƒX‚µ‚©‚È‚¢BGitHub‚àA‚²‘½•ª‚É˜R‚ê‚¸AUTF-8‘Î‰ž‚Å‚ ‚é‚½‚ßA“ú–{Œê‚È‚Ç‚ÌƒhƒLƒ…ƒƒ“ƒg‚Í•\Ž¦‰Â”\‚Å‚Í‚ ‚éB‚µ‚©‚µAŽŸ‚Éq‚×‚é‘¼‹ÆŽí“WŠJ‚ðl‚¦‚½ã‚Å‚àAƒƒjƒ…[‚âà–¾•¶‚ð‘½‘Œê‰»‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚¾‚ë‚¤B
+GitHub‚Í‰pŒê‚ÌƒT[ƒrƒX‚µ‚©‚È‚¢BGitHub‚à‚²‘½•ª‚É˜R‚ê‚¸UTF-8‘Î‰ž‚Å‚ ‚é‚½‚ßA“ú–{Œê‚È‚Ç‚ÌƒhƒLƒ…ƒƒ“ƒg‚Í•\Ž¦‰Â”\‚Å‚Í‚ ‚éB‚µ‚©‚µAŽŸ‚Éq‚×‚é‘¼‹ÆŽí“WŠJ‚ðl‚¦‚½ã‚Å‚àAƒƒjƒ…[‚âà–¾•¶‚ð‘½‘Œê‰»‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚¾‚ë‚¤B
 
 GitHub‚Íƒ\ƒtƒgƒEƒFƒAŠJ”­ƒvƒƒWƒFƒNƒgˆÈŠO‚Å‚àŽg‚í‚ê‚é‚±‚Æ‚ª‘½‚­‚È‚Á‚Ä‚¢‚éBƒo[ƒWƒ‡ƒ“ŠÇ—‚ª•K—v‚È‘—Þ‚ðˆµ‚¤‹ÆŽí‚È‚ç‚ÎAGitHub‚ð—˜—p‚·‚é‚±‚Æ‚àŒŸ“¢‚³‚ê‚é‚æ‚¤‚É‚È‚é‚¾‚ë‚¤B‚½‚¾‚µAGitHub‚ÍAŠî–{“I‚ÉƒeƒLƒXƒgƒx[ƒX‚ÌƒT[ƒrƒX‚È‚Ì‚ÅA‚æ‚è‘½—l‚ÈƒtƒH[ƒ}ƒbƒg‚Ö‚Ì‘Î‰ž‚ª–]‚Ü‚ê‚éB
 
