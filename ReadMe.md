@@ -16,7 +16,7 @@ GitHubが生まれた背景には：
 
 といったものがからんでいる。
 
-オープンソースの隆盛は、Linuxが頭角を現したころら顕著ではあるが、GitHubの核として利用されているgitもオープンソースであり、GitHubをメインリポジトリとしているオープンソースプロジェクトも数多くある。
+オープンソースの隆盛は、Linuxが頭角を現したころから顕著ではあるが、GitHubの核として利用されているgitもオープンソースであり、GitHubをメインリポジトリとしているオープンソースプロジェクトも数多くある。
 
 Webサービスの隆盛により、スケール可能なインフラが安価に利用できるようになり、バージョン管理のような比較的かさばるものでも安価に利用できるようになった。
 
@@ -63,7 +63,7 @@ GitHubはソフトウェア開発プロジェクト以外でも使われることが多くなっている。バージ
 
 Linus Torvalds氏のLinuxのページ：[https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
-有料コース案内：[https://github.com/business](https://github.com/business)
+有料コース案内：[https://github.com/pricing](https://github.com/pricing)
 
 ホワイトハウスがGitHub上に公開している資料：[https://github.com/WhiteHouse](https://github.com/WhiteHouse)
 
