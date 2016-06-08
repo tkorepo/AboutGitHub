@@ -40,6 +40,8 @@ git‚Í‚»‚à‚»‚à‚ª•ªŽUŒ^ƒo[ƒWƒ‡ƒ“ŠÇ—ƒVƒXƒeƒ€‚Å‚ ‚èA‰“Šu’n‹¦‹Æ‚ð‘O’ñ‚Æ‚µ‚½ƒc[ƒ‹‚
 
 GitHub‚Ì—L—¿ƒR[ƒX‚Å‚ÍAŽ©“®ƒeƒXƒg‚ðŠÜ‚ÞŒp‘±“I“‡ƒc[ƒ‹‚È‚ÇA—lX‚Èƒc[ƒ‹‚ª—˜—p‚Å‚«‚éB‚»‚ê‚ç‚ðŽ©‘O‚ÌƒT[ƒo‚Å˜d‚¤‚Æ‚»‚ê‚È‚è‚ÉƒRƒXƒg‚ª‚©‚©‚éB
 
+![Buisiness](images/business.jpg)
+
 GitHub‚ªL‚­Žg‚í‚ê‚é‚æ‚¤‚É‚È‚èA‚»‚Ìì‹Æƒtƒ[‚ªƒfƒtƒ@ƒNƒg‰»‚µ‚Ä‚¢‚éB‚»‚Ì‚½‚ßAlÞŠm•Û–Ú“I‚ÉGitHub‚ðÌ—p‚·‚é‚±‚Æ‚à‚ ‚é‚æ‚¤‚¾B
 
 ## GitHub‚Ì‰Û‘è
